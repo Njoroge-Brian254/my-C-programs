@@ -1,3 +1,4 @@
+//do while loop
 #include<stdio.h>
 int main(){
 int i,j ,sum=0;//start
