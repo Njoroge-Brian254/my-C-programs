@@ -1,0 +1,15 @@
+//matrix 2
+#include<stdio.h>
+int main(){
+    int k,l;
+    int scores[2][2]= {
+    {35,70},
+    {59,67},
+    };
+    for(int k=0;k<2;k++){
+        for(int l=0;l<2;l++){
+            printf("%d\n",scores[k][l]);
+        }
+    }
+    return 0;
+    }
